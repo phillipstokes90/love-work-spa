@@ -70,7 +70,8 @@ section{padding:clamp(60px,8vw,110px) 0;}
 .trio .t:nth-child(2){background:#fff2e9;}
 .trio .t:nth-child(3){background:#fbe6f4;}
 .trio .t:hover{transform:translateY(-6px) rotate(-1.2deg);box-shadow:0 28px 50px -26px rgba(255,92,138,.75);}
-.trio .t .icon{font-size:42px;line-height:1;margin-bottom:14px;}
+.trio .t .icon{margin-bottom:16px;line-height:0;}
+.trio .t .icon svg{width:46px;height:46px;display:inline-block;}
 .trio .t h3{margin-bottom:10px;}
 .trio .t p{font-size:15px;color:#836e76;}
 .trio .t .price{display:inline-block;margin-top:8px;font-family:var(--sans);font-weight:600;font-size:13px;
